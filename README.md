@@ -3,7 +3,7 @@
 **Turn a photo of a cracked surface into a graph, and measure it.**
 Every crack segment becomes an edge and every junction becomes a node. You get lengths, widths and directions, the **type of every junction (T, Y or X)** and the **closed cells** between the cracks. The junction types show *how* the network formed.
 
-** Live demo:** drop an image and get the results in a few seconds. *(Hugging Face Space: link after deployment, see below.)*
+**Live demo:** drop an image and get the results in a few seconds. *(Hugging Face Space: link after deployment, see below.)*
 
 ![Live demo](images/app.png)
 
